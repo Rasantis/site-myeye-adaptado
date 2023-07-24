@@ -4670,6 +4670,9 @@ Page Title Area CSS
 .page-title-area.item-bg6 {
   background-image: url(../img/servicoo_bg.jpg);
 }
+  .page-title-area.item-bg7 {
+    background-image: url(../img/bg-carros.jpg);
+}
 .page-title-content h2 {
   margin-bottom: 0;
   color: #ffffff;
